@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giovanni\\source\\repos\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj": {}
+    "C:\\Users\\Giovanni\\Desktop\\Progetti\\Trainers e Cheats\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giovanni\\source\\repos\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj": {
+    "C:\\Users\\Giovanni\\Desktop\\Progetti\\Trainers e Cheats\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj",
+        "projectUniqueName": "C:\\Users\\Giovanni\\Desktop\\Progetti\\Trainers e Cheats\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj",
         "projectName": "CS1.6 Godzilla",
-        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj",
+        "projectPath": "C:\\Users\\Giovanni\\Desktop\\Progetti\\Trainers e Cheats\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj",
         "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\CS1.6 Godzilla\\CS1.6 Godzilla\\obj\\",
+        "outputPath": "C:\\Users\\Giovanni\\Desktop\\Progetti\\Trainers e Cheats\\CS1.6 Godzilla\\CS1.6 Godzilla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
