@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MI/NhmL66wOevhj8LNrYWmoymg2MdiSNjSw8Mlo+FJOaCVorzOKexEGx7K9xqF/izsfSnnb2SsjGVxb1TQlcbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giovanni\\source\\repos\\CS1.6 Godzilla\\CS1.6 Godzilla\\CS1.6 Godzilla.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni\\.nuget\\packages\\memory.dll.x86\\1.2.24\\memory.dll.x86.1.2.24.nupkg.sha512"
+  ],
+  "logs": []
+}

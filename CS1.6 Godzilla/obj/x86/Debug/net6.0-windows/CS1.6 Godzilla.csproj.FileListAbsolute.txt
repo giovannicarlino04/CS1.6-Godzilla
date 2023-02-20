@@ -1,0 +1,19 @@
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\bin\x86\Debug\net6.0-windows\CS1.6 Godzilla.exe
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\bin\x86\Debug\net6.0-windows\CS1.6 Godzilla.deps.json
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\bin\x86\Debug\net6.0-windows\CS1.6 Godzilla.runtimeconfig.json
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\bin\x86\Debug\net6.0-windows\CS1.6 Godzilla.dll
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\bin\x86\Debug\net6.0-windows\CS1.6 Godzilla.pdb
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1._6_Godzilla.Form1.resources
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.csproj.CopyComplete
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.dll
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\refint\CS1.6 Godzilla.dll
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.pdb
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\CS1.6 Godzilla.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\obj\x86\Debug\net6.0-windows\ref\CS1.6 Godzilla.dll
+C:\Users\Giovanni\source\repos\CS1.6 Godzilla\CS1.6 Godzilla\bin\x86\Debug\net6.0-windows\Memory.dll
